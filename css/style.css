@@ -1,0 +1,42 @@
+body{
+    /*Exercício 3*/
+    /* GERAL */
+    background-image: url(../img/fundodetela.png);
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+   
+}
+
+a{
+    text-decoration: none; /*tira os pontos de underline */
+}
+
+/*FONT*/
+h1 {
+    color: #5D1277;
+} 
+
+P{
+    color: #4f4f4f;
+}
+
+.caixaconteudo {
+    text-align: center;
+    background-color: white;
+    width: 50%;
+    margin: 50px auto 0 auto;
+    padding: 50px 0;
+    /*border: 3px solid purple; ou...*/
+    box-shadow:  0px 0px 15px rgba(0,0,0,.4); /*....,....,....,cor*/
+}
+
+.redes-sociais img {
+    width: 50px;
+    margin: 10px;
+}
+      
+     
+    
+
+
